@@ -35,7 +35,7 @@
 - **Floating WhatsApp Button** — Quick access for user queries.  
 - **Countdown Timer** — Countdown for limited-time offers.  
 
----
+
 
 ## 📋 Requirements
 
@@ -44,9 +44,9 @@
 - Modern web browser (Chrome, Edge, Firefox, Safari)  
 
 
-![Screenshot](public/assets/img1.png)
-![](public/assets/img2.png)
-![](public/assets/img3.png)
-![](public/assets/img4.png)
-![](public/assets/img5.png)
-![](public/assets/img6.png)
+![Screenshot 1](assets/img1.png)
+![Screenshot 2](assets/img2.png)
+![Screenshot 3](assets/img3.png)
+![Screenshot 4](assets/img4.png)
+![Screenshot 5](assets/img5.png)
+![Screenshot 6](assets/img6.png)
