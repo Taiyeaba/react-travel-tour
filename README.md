@@ -2,7 +2,7 @@
 
 **React, Tailwind CSS, React Router v6** based modern travel website to explore the beauty of Bangladesh.  
 
-🌐 **Live Demo:** (Add your live link here)  
+🌐 **Live Demo:** https://thunderous-platypus-9d0d2f.netlify.app/  
 
 ---
 
@@ -14,9 +14,6 @@
 - HTML5 & CSS3
 - Node.js + npm/yarn  
 
----
-
-## 🚀 Features
 
 ### Core Features
 - **Top Offer Bar** — Limited-time offers with countdown and contact info.  
@@ -44,10 +41,3 @@
 - Modern web browser (Chrome, Edge, Firefox, Safari)  
 
 
-![Screenshot 1](assets/img1.png)
-
-![Screenshot 2](assets/img2.png)
-![Screenshot 3](assets/img3.png)
-![Screenshot 4](assets/img4.png)
-![Screenshot 5](assets/img5.png)
-![Screenshot 6](assets/img6.png)
